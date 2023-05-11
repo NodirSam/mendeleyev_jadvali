@@ -17,6 +17,7 @@ dependencies:
   sizer: ^2.0.15
   flutter_svg: ^1.1.0
   url_launcher: ^6.1.4
+  get: any
 
 dev_dependencies:
   flutter_test:

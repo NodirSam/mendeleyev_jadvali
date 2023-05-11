@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:mendeleyev_jadvali/screens/HomePage.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 
